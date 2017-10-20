@@ -12,10 +12,18 @@ Dependencies:
 
 Install invoices app:
   1. move to application root directory
-  2. execute: pip install --editable .
-  3. execute (on linux): export FLASK_APP=invoices
-  3. execute (on win): set FLASK_APP=invoices
-  4. execute: flask run
+  2. execute:
+  
+          pip install --editable .
+  3. execute (on linux): 
+  
+          export FLASK_APP=invoices
+  3. execute (on win): 
+  
+          set FLASK_APP=invoices
+  4. execute: 
+  
+          flask run
 
 Flask app should now be running on localhost:5000
 
