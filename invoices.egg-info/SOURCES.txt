@@ -1,0 +1,9 @@
+MANIFEST.in
+invoices/__init__.py
+invoices/invoices.py
+invoices/views.py
+invoices.egg-info/PKG-INFO
+invoices.egg-info/SOURCES.txt
+invoices.egg-info/dependency_links.txt
+invoices.egg-info/requires.txt
+invoices.egg-info/top_level.txt
