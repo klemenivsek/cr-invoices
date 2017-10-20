@@ -5,7 +5,7 @@ Dependencies:
   Python, Flask
 
 
-Install package:
+Install invoices app:
   1. move to application root directory
   2. execute: pip install --editable .
   3. execute (on linux): export FLASK_APP=invoices
